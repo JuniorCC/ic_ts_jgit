@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 c6d399c000adb807dcffe76d7553de46f1129f95 Jcupe <jcupe.cas@gmail.com> 1606512309 -0500	commit (initial): test-merge initial
+c6d399c000adb807dcffe76d7553de46f1129f95 c6d399c000adb807dcffe76d7553de46f1129f95 Jcupe <jcupe.cas@gmail.com> 1606512455 -0500	checkout: moving from master to A1
+c6d399c000adb807dcffe76d7553de46f1129f95 c6d399c000adb807dcffe76d7553de46f1129f95 Jcupe <jcupe.cas@gmail.com> 1606512503 -0500	checkout: moving from A1 to A2
+c6d399c000adb807dcffe76d7553de46f1129f95 18c3d41c8f5dcf91342a1f5def00fd9e133df410 Jcupe <jcupe.cas@gmail.com> 1606512553 -0500	commit: Branch A2
+18c3d41c8f5dcf91342a1f5def00fd9e133df410 c6d399c000adb807dcffe76d7553de46f1129f95 Jcupe <jcupe.cas@gmail.com> 1606512576 -0500	checkout: moving from A2 to A1
+c6d399c000adb807dcffe76d7553de46f1129f95 c6d399c000adb807dcffe76d7553de46f1129f95 Jcupe <jcupe.cas@gmail.com> 1606512598 -0500	checkout: moving from A1 to A3
+c6d399c000adb807dcffe76d7553de46f1129f95 deb61b8aa4fd6f091426f31408dd2ef768272e95 Jcupe <jcupe.cas@gmail.com> 1606512640 -0500	commit: Branch A3
+deb61b8aa4fd6f091426f31408dd2ef768272e95 208a60cd485799d0f86a47c25f2295e08da65069 Jcupe <jcupe.cas@gmail.com> 1606512782 -0500	commit: A3 in Branch3
+208a60cd485799d0f86a47c25f2295e08da65069 18c3d41c8f5dcf91342a1f5def00fd9e133df410 Jcupe <jcupe.cas@gmail.com> 1606512798 -0500	checkout: moving from A3 to A2
+18c3d41c8f5dcf91342a1f5def00fd9e133df410 96c4a652a01251aaf2170b5b3a7f8d4cf5626c06 Jcupe <jcupe.cas@gmail.com> 1606512823 -0500	commit: Branch A2
+96c4a652a01251aaf2170b5b3a7f8d4cf5626c06 c6d399c000adb807dcffe76d7553de46f1129f95 Jcupe <jcupe.cas@gmail.com> 1606512847 -0500	checkout: moving from A2 to A1
+c6d399c000adb807dcffe76d7553de46f1129f95 0e5593d3da56c605ebdb6b8ca2d113c102ff0ba0 Jcupe <jcupe.cas@gmail.com> 1606512868 -0500	commit: A1 in branch A1
